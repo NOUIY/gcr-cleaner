@@ -1,6 +1,6 @@
 module github.com/GoogleCloudPlatform/gcr-cleaner
 
-go 1.22
+go 1.23.0
 
 require (
 	github.com/google/go-containerregistry v0.20.2
@@ -21,6 +21,6 @@ require (
 	github.com/pkg/errors v0.9.1 // indirect
 	github.com/sirupsen/logrus v1.9.3 // indirect
 	github.com/vbatts/tar-split v0.11.6 // indirect
-	golang.org/x/oauth2 v0.23.0 // indirect
+	golang.org/x/oauth2 v0.27.0 // indirect
 	golang.org/x/sys v0.25.0 // indirect
 )
